@@ -49,7 +49,7 @@ def frequency(e):
     return[]
 
 def show2(f):
-   """This function will show two words with highest frequency""" 
+    """This function will show two words with highest frequency"""
     # TODO add code here
     return[]
 
